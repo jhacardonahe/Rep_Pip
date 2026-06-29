@@ -1,0 +1,8 @@
+README.md
+setup.py
+REP_Pip.egg-info/PKG-INFO
+REP_Pip.egg-info/SOURCES.txt
+REP_Pip.egg-info/dependency_links.txt
+REP_Pip.egg-info/top_level.txt
+paquetePlatzi/__init__.py
+paquetePlatzi/saludo.py
